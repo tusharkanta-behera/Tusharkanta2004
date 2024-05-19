@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tusharkanta Behera</h1>
 <h3 align="center">Cyber Security Enthusiast</h3>
 
+<img align = "right" alt="coding" width = "400" src = "https://github.com/Tusharkanta2004/Tusharkanta2004/assets/142692430/db6a7476-ffd7-4ab2-81cb-ea82a9ab99b6">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkanta2004&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkanta2004" /> </p>
 
 - 🌱 I’m currently learning **Networking**
