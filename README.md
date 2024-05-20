@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tusharkanta Behera</h1>
-<h3 align="center">Cyber Security Enthusiast</h3>
+<h3 align="center"><p>**Cyber Security Enthusiast**</p></h3>
 
 <img align = "right" alt="coding" width = "400" src = "https://github.com/Tusharkanta2004/Tusharkanta2004/assets/142692430/db6a7476-ffd7-4ab2-81cb-ea82a9ab99b6">
 
