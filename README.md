@@ -30,4 +30,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharkanta2004&show_icons=true&locale=en" alt="tusharkanta2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkanta2004&" alt="tusharkanta2004" /></p>
-<h1>Tusharkanta Behera</h1>
